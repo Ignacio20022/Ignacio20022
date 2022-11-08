@@ -1,4 +1,4 @@
-### Hi there <link href='https://www.linkedin.com/in/ignacio-berasategui-465a67245/'> das <link/> 👋
+# **Hi there, my name is [Ignacio Berasategui](https://www.linkedin.com/in/ignacio-berasategui-465a67245/)** 👋
 
 <!--
 **Ignacio20022/Ignacio20022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
