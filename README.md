@@ -21,8 +21,8 @@ Me considero una persona proactiva, si hay algo que aprender o algo que solucion
 📁 GitHub: https://github.com/Ignacio20022
 
 ## 🛠️Lenguajes y herramientas
-<div align="center">
+<div align="midlle">
     <img src="https://skillicons.dev/icons?i=js,ts,postgres,mongo,html,css,nodejs,express" /> <br>
-    <img src="https://skillicons.dev/icons?i=vite,react,redux,webpack,git,github" />
+    <img src="https://skillicons.dev/icons?i=vite,react,redux,webpack,git,github" /><br>
     <img src="https://skillicons.dev/icons?i=heroku,vercel,aws,firebase,python,vscode,cpp" />
 </div>
