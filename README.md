@@ -26,3 +26,11 @@ Me considero una persona proactiva, si hay algo que aprender o algo que solucion
     <img src="https://skillicons.dev/icons?i=vite,react,redux,webpack,git,github" /><br>
     <img src="https://skillicons.dev/icons?i=heroku,vercel,aws,firebase,python,vscode,cpp" />
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h1>dsadasdsa</h1>
