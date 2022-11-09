@@ -8,7 +8,7 @@ I really like challenges that takes the most out of me and always welcome them
 
 # About Me
 
-I consider myself a friendly person, capable of adapting to different situations and eager to acquire new knowledge and face new challenges.
+I consider myself a friendly person, capable of adapting easily to different situations and eager to acquire new knowledge and face new challenges.
 I started programming at UNNOBA, I learned Python and C++, among other things, but in the end I did not like it and so I decided to give programming another chance but this time in web development, thus starting Henry's bootcamp.
 
 ## 📚My time at Henry
