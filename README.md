@@ -18,7 +18,7 @@ I consider myself a proactive person, if there is something to learn or somethin
 
 <br>
 
-## 🛠️Lenguajes y herramientas
+## 🛠️Languages and tools
 <div align="center" height="400">
     <img height="70" src="https://skillicons.dev/icons?i=js,ts,postgres,mongo,html,css,nodejs,express" /> <br>
     <img height="70" src="https://skillicons.dev/icons?i=vite,react,redux,webpack,git,github" /><br>
@@ -27,7 +27,7 @@ I consider myself a proactive person, if there is something to learn or somethin
 
 <br>
 
-## 📫 Charlemos! 
+## 📫 Let's chat! 
 
 <p>
     <a href="https://wa.me/542355419109">
