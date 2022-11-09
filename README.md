@@ -6,19 +6,17 @@
 I really like challenges that takes the most out of me and always welcome them <br>
 
 ## **About Me**
-¡Hola! Me llamo Ignacio y soy desarrollador Full Stack, más orientado al Back-End
 
-Sobre mi
-Me considero una persona amigable y fácil de adaptarse a distintas situaciones, con ganas de adquirir nuevos conocimientos y enfrentar nuevos desafíos. 
-Empecé con la programación en la UNNOBA, aprendí Python y C++, entre otras cosas, pero no me termino gustando y decidí inclinarme más por el desarrollo web empezando el bootcamp de Henry.
+I consider myself a kind and easy person to adapt to different situations, eager to acquire new knowledge and face new challenges.
+I started programming at UNNOBA, I learned Python and C++, among other things, but in the end I didn't like it and decided to give programming another chance but this time web development, thus starting Henry's bootcamp.
 
-Mi etapa en Henry
-En el bootcamp aprendí mucho sobre JavaScript al igual que otras tecnologías, frameworks y librerías tales como React, NodeJS, Express, Sequelize, github, gitflow, entre muchas otras, así mismo siempre estoy desarrollando mis capacidades técnicas y sociales.
+### 📚My time in Henry
+In the bootcamp I learned a lot about JavaScript as well as other technologies, frameworks and libraries such as React, NodeJS, Express, Sequelize, github, gitflow, among many others, and I am always developing my technical and social skills.
 
-🤝¿Por qué elegirme?
-Me considero una persona proactiva, si hay algo que aprender o algo que solucionar, no voy a parar hasta conseguirlo.
+### 🤝Why choose me?
+I consider myself a proactive person, if there is something to learn or something to solve, I will not stop until I achieve it.
 
-📁 GitHub: https://github.com/Ignacio20022
+<br>
 
 ## 🛠️Lenguajes y herramientas
 <div align="center" height="400">
@@ -27,10 +25,16 @@ Me considero una persona proactiva, si hay algo que aprender o algo que solucion
     <img height="70" src="https://skillicons.dev/icons?i=heroku,vercel,aws,firebase,python,vscode,cpp" />
 </div>
 
+<br>
 
 ## 📫 Charlemos! 
 
 <p>
+    <a href="https://wa.me/542355419109">
+        <img height="50" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/WhatsApp_font_awesome.svg/1200px-WhatsApp_font_awesome.svg.png" />
+        +54 2355419109
+    </a>
+    <br>
     <a href="mailto:nachobera1212@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
       nachobera1212@gmail.com
