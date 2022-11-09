@@ -16,7 +16,6 @@ In the bootcamp I learned a lot about JavaScript as well as other technologies, 
 
 ## 🤝Why choose me?
 I consider myself a proactive person, if there is something to learn or something to solve, I will not stop until I achieve it.
-
 <br>
 
 ## 🛠️Languages and tools
