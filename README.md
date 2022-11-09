@@ -31,13 +31,13 @@ Me considero una persona proactiva, si hay algo que aprender o algo que solucion
 ## 📫 Charlemos! 
 
 <p>
-    <a href="https://marcoslaurens25@gmail.com">
+    <a href="https://nachobera1212@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
-      marcoslaurens25@gmail.com
+      nachobera1212@gmail.com
     </a>    
     <br>
-    <a href="https://www.linkedin.com/in/marcos-laurens/">
+    <a href="https://www.linkedin.com/in/ignacio-berasategui-465a67245/">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
-      Marcos Laurens
+      Ignacio Berasategui
     </a>
 <p/>
