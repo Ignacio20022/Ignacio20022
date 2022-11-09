@@ -26,11 +26,18 @@ Me considero una persona proactiva, si hay algo que aprender o algo que solucion
     <img height="70" src="https://skillicons.dev/icons?i=vite,react,redux,webpack,git,github" /><br>
     <img height="70" src="https://skillicons.dev/icons?i=heroku,vercel,aws,firebase,python,vscode,cpp" />
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<h1>dsadasdsa</h1>
+
+## 📫 Charlemos! 
+
+<p>
+    <a href="https://marcoslaurens25@gmail.com">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
+      marcoslaurens25@gmail.com
+    </a>    
+    <br>
+    <a href="https://www.linkedin.com/in/marcos-laurens/">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
+      Marcos Laurens
+    </a>
+<p/>
