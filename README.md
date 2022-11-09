@@ -7,11 +7,11 @@ I really like challenges that takes the most out of me and always welcome them <
 
 ## **About Me**
 
-I consider myself a kind and easy person to adapt to different situations, eager to acquire new knowledge and face new challenges.
-I started programming at UNNOBA, I learned Python and C++, among other things, but in the end I didn't like it and decided to give programming another chance but this time web development, thus starting Henry's bootcamp.
+I consider myself a friendly person, capable of adapting to different situations and eager to acquire new knowledge and face new challenges.
+I started programming at UNNOBA, I learned Python and C++, among other things, but in the end I did not like it and so I decided to give programming another chance but this time in web development, thus starting Henry's bootcamp.
 
-### 📚My time in Henry
-In the bootcamp I learned a lot about JavaScript as well as other technologies, frameworks and libraries such as React, NodeJS, Express, Sequelize, github, gitflow, among many others, and I am always developing my technical and social skills.
+### 📚My time at Henry
+In the bootcamp I learned a lot about JavaScript as well as other technologies, frameworks and libraries such as React, NodeJS, Express, Sequelize, Github, Gitflow, Scrum, among many others, and I am always developing my technical and social skills.
 
 ### 🤝Why choose me?
 I consider myself a proactive person, if there is something to learn or something to solve, I will not stop until I achieve it.
