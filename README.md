@@ -3,13 +3,13 @@
 
 ### _Back-end oriented Full Stack Developer_
 
-I really like challenges that takes the most out of me and always welcome them 
+I really like challenges that take the most out of me and always welcome them.
 <br>
 
 # About Me
 
 I consider myself a friendly person, capable of adapting easily to different situations and eager to acquire new knowledge and face new challenges.
-I started programming at UNNOBA, I learned Python and C++, among other things, but in the end I did not like it and so I decided to give programming another chance but this time in web development, thus starting Henry's bootcamp.
+I started programming at UNNOBA, I learned Python and C++, among other things, in the end, I did not like it, but instead of giving up on programming I decided to give it one more chance, although this time in web development, thus starting Henry's bootcamp.
 
 ## 📚My time at Henry
 In the bootcamp I learned a lot about JavaScript as well as other technologies, frameworks and libraries such as React, NodeJS, Express, Sequelize, Github, Gitflow, Scrum, among many others, and I am always developing my technical and social skills.
