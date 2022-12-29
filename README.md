@@ -22,7 +22,7 @@ I consider myself a proactive person, if there is something to learn or somethin
 <div align="center" height="400">
     <img height="70" src="https://skillicons.dev/icons?i=js,ts,postgres,mongo,html,css,nodejs,express" /> <br>
     <img height="70" src="https://skillicons.dev/icons?i=vite,react,redux,webpack,git,github,bootstrap" /><br>
-    <img height="70" src="https://skillicons.dev/icons?i=heroku,vercel,aws,firebase,python,vscode,cpp" />
+    <img height="70" src="https://skillicons.dev/icons?i=heroku,vercel,aws,firebase,python,vscode,cpp,docker" />
 </div>
 
 <br>
