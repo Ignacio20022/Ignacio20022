@@ -20,9 +20,9 @@ I consider myself a proactive person, if there is something to learn or somethin
 
 ## 🛠️Languages and tools
 <div align="center" height="400">
-    <img height="70" src="https://skillicons.dev/icons?i=js,ts,postgres,mongo,html,css,nodejs,express" /> <br>
+    <img height="70" src="https://skillicons.dev/icons?i=js,ts,postgres,mongo,html,css,nodejs,express,php" /> <br>
     <img height="70" src="https://skillicons.dev/icons?i=vite,react,redux,webpack,git,github,bootstrap,mysql" /><br>
-    <img height="70" src="https://skillicons.dev/icons?i=heroku,vercel,aws,firebase,python,vscode,cpp,docker" />
+    <img height="70" src="https://skillicons.dev/icons?i=heroku,vercel,aws,firebase,python,vscode,cpp,docker,nuxt" />
 </div>
 
 <br>
